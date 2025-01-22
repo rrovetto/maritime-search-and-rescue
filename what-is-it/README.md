@@ -27,4 +27,10 @@ Examples include the following.
 | MRNSW | Australia volunteer org. |
 
 ## Resources
+- https://www.imo.org/en/about/Conventions/Pages/International-Convention-on-Maritime-Search-and-Rescue-(SAR).aspx
+- https://en.wikipedia.org/wiki/International_Convention_on_Maritime_Search_and_Rescue
+  
+| Nation-specific |
+|-----------------|
+| [USA - USCG SAR](https://www.dco.uscg.mil/Our-Organization/Assistant-Commandant-for-Response-Policy-CG-5R/Office-of-Incident-Management-Preparedness-CG-5RI/US-Coast-Guard-Office-of-Search-and-Rescue-CG-SAR/)|
 
