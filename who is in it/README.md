@@ -10,7 +10,10 @@ The following non-exhaustive roles are found in maritime SAR.
  Mechanic | Specialized role responsible for maintaining mechanical equipment of the rescue boat 
  Navigator | Specialized role responsible for safe navigation of the rescue boat, operating various navigational equipment |
  Coxswain | Leadership role responsible for the rescue boat, all onboard, and the safe and successful execution of the mission |
- On-scene Coordinator |
+ On-scene Coordinator | Manages the search area directly (in-situ) |
+ SAR Mission Coordinator | Person who oversees the operation | 
+ | Marine Communications and Traffic Services Officer | Person commmunication alerts and notificaitons |
+
  
  
 
