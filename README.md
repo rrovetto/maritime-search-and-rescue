@@ -6,7 +6,12 @@ A repository about maritime search and rescue. This work aims to succinctly desc
 - The 'when' describes the temporal extent.
 - The 'how' describes the means and method of executing M-SAR (i.e., the 'what').
 - The 'why' describes the rationale for conducting M-SAR.
-  
+
+## Support
+- Donations: If you find value in this work, pleaes [donate at this PayPal page](https://tinyurl.com/donate-rjr). As a presently unfunded personal project, your donation will support development into the future, and show appreciation for the time and work thusfar.
+- Sponsor: Contact maritimeSARemail[at]gmail[dot]com to sponsor the project
+- Organizational partners: Contact maritimeSARemail[at]gmail[dot]com to become an organiational business partner.
+
 ## Alternate names
 Other names for 'maritime search and rescue' include: Maritime SAR, Marine SAR, Aquatic SAR, Water SAR, etc.
 
