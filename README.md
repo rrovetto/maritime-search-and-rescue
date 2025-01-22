@@ -1,5 +1,10 @@
-# Maritime Search and Rescue (SAR)
-A repository about maritime search and rescue.
+# Maritime Search and Rescue (M-SAR)
+A repository about maritime search and rescue. This work aims to succinctly describe the topic (and activity) of M-SAR. It aims to summarize the who, what, why, where, when, and how of M-SAR.
+- The 'who' includes the actors, roles and participants.
+- The 'what' includes describing the activity and definition.The 'why' describes the rationale and purpose.
+- The 'where' signifies the geographic scope.
+- The 'when' describes the temporal extent.
+- The 'how' describes the means and method of executing M-SAR (i.e., the 'what').
 
 ## Alternate names
 Other names for 'maritime search and rescue' include: Maritime SAR, Marine SAR, Aquatic SAR, Water SAR, etc.
