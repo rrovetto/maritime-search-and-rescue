@@ -5,3 +5,11 @@ Maritime SAR is employed as a process spanning a system-of-systems construct: a 
 
 ## Resources
 - [IAMSAR Manuals](https://www.imo.org/en/OurWork/Safety/Pages/IAMSARManual.aspx)
+
+## Author (topical bio)
+Robert J. Rovetto
+- MMSAR
+- Co-author of [U.S. National Water Safety Action Plan](https://www.watersafetyusa.org/uploads/7/0/6/0/70608285/usnwsap_v7.pdf)
+- USCG-licensed Merchant Mariner (Deck Officer - Master 100 Ton Inland)
+- [U.S. Maritime SAR Profile (1)](https://community.nasbla.org/network/members/profile?UserKey=952c6b10-a6c3-49f7-8356-c2bf1fa62097)
+- Sample Project: https://ontowaves.wordpress.com/
