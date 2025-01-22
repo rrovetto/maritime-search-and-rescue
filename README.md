@@ -8,7 +8,7 @@ This work aims to succinctly present information about maritime search and rescu
 - The '[why](https://github.com/rrovetto/maritime-search-and-rescue/tree/main/why-is-it-important)' describes the rationale for conducting M-SAR.
 
 ## Citation 
-If you find value in this work, cite it as "Maritime Search and Rescue, GitHub page, Robert J. Rovetto" with the date and the website URL.
+If you find value in this work, cite it as "Maritime Search and Rescue, GitHub page, Robert J. Rovetto" with the date and the website URL. Or use your preferred professional citation/reference format (APA, etc.).
 
 ## Support
 - Donations: If you find value in this work, pleaes [donate at this PayPal page](https://tinyurl.com/donate-rjr). As a presently unfunded personal project, your donation will support development into the future, and show appreciation for the time and work thusfar.
