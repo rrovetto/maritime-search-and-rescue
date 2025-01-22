@@ -11,9 +11,9 @@ This work aims to succinctly present information about maritime search and rescu
 If you find value in this work, cite it as "Maritime Search and Rescue, GitHub page, Robert J. Rovetto" with the date and the website URL. Or use your preferred professional citation/reference format (APA, etc.).
 
 ## Support
-- Donations: If you find value in this work, pleaes [donate at this PayPal page](https://tinyurl.com/donate-rjr). As a presently unfunded personal project, your donation will support development into the future, and show appreciation for the time and work thusfar.
-- Sponsor: Contact maritimeSARemail[at]gmail[dot]com to sponsor the project
-- Organizational partners: Contact maritimeSARemail[at]gmail[dot]com to become an organiational business partner.
+- **Donations:** If you find value in this work, pleaes [donate at this PayPal page](https://tinyurl.com/donate-rjr). As a presently unfunded personal project, your donation will support development into the future, and show appreciation for the time and work thusfar.
+- **Sponsor:** Contact maritimeSARemail[at]gmail[dot]com to sponsor the project
+- **Organizational partners:** Contact maritimeSARemail[at]gmail[dot]com to become an organiational business partner.
 
 ## Alternate names
 Other names for 'maritime search and rescue' include: Maritime SAR, Marine SAR, Aquatic SAR, Water SAR, etc.
