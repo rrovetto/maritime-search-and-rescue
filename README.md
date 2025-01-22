@@ -5,7 +5,7 @@ A repository about maritime search and rescue. This work aims to succinctly desc
 - The '[where](https://github.com/rrovetto/maritime-search-and-rescue/tree/main/where%20does%20it%20apply)' signifies the geographic scope.
 - The '[when](https://github.com/rrovetto/maritime-search-and-rescue/tree/main/when%20is%20it%20employed)' describes the temporal extent.
 - The '[how](https://github.com/rrovetto/maritime-search-and-rescue/tree/main/how%20is%20it%20applied)' describes the means and method of executing M-SAR (i.e., the 'what').
-- The 'why' describes the rationale for conducting M-SAR.
+- The '[why](https://github.com/rrovetto/maritime-search-and-rescue/tree/main/why-is-it-important)' describes the rationale for conducting M-SAR.
 
 ## Support
 - Donations: If you find value in this work, pleaes [donate at this PayPal page](https://tinyurl.com/donate-rjr). As a presently unfunded personal project, your donation will support development into the future, and show appreciation for the time and work thusfar.
