@@ -6,4 +6,5 @@ It is the search for distressed persons and maritime vessels/vehicles, and their
 'search and rescue', here, refers to the common sense of the term.
 
 ## History
-Please see
+Please see 
+Purchase the diagram at [https://tinyurl.com/SAR-History-Diagram](https://tinyurl.com/SAR-History-Diagram)
