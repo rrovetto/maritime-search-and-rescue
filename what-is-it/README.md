@@ -8,3 +8,4 @@ It is the search for distressed persons and maritime vessels/vehicles, and their
 ## History
 Please see 
 Purchase the diagram at [https://tinyurl.com/SAR-History-Diagram](https://tinyurl.com/SAR-History-Diagram)
+Donate at [https://tinyurl.com/donate-rjr](https://tinyurl.com/donate-rjr)
