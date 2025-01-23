@@ -1,5 +1,5 @@
 # What is Maritime search and rescue (SAR)?
-It is the search for distressed persons and maritime vessels/vehicles, and their rescue or recovvery.
+It is the search for distressed persons and maritime vessels/vehicles, their rescue and/or recovvery.
 
 ## Terms
 - 'Maritime', here, refers to water-bodies, whether rivers, lakes, seas, or oceans. Artificial water-bodies such as pools shall be considered a specialized case. The term may be considered synonymous with 'aquatic', 'water', 'marine'.
