@@ -14,14 +14,14 @@ Maritime SAR arguable spans as early as humans walked the Earth's water bodies. 
 In modern times, maritime SAR is seen in both paid and unpaid paradigms. The latter is arguable more common, particularly in Europe.
 Military organizatons typically incorproate it as a function or mission. Volunteer (unpaid) organizations may have it as a primary function.
 Examples include the following.
-| Organization | Description |
+| Organization (sample) | Description |
 |--------------|-------------|
-| Canadian Coast guard, & RCMSAR | Canada's paid, and unpaid organizations |
-| USCG | U.S.A. paid military organization with SAR as one of its functions |
-| USN | U.S.A. Navy, paid military with SAR as one of its minor functions |
+| Canadian Coast guard, & RCMSAR | Canada's paid civil org., and Unpaid (volunteer) org. |
+| USCG | U.S.A. military org. with SAR as one of its functions |
+| USN | U.S.A. Navy (military) with SAR as one of its minor functions |
 | KNRM | Dutch Volunteer Sea Rescue Service |
-| RNLI | United Kingdom volunteer org. |
-| Independent Lifeboats | UK volunteer org. |
+| RNLI | United Kingdom & Republic of Ireland volunteer org. |
+| Independent Lifeboats | UK & ROI volunteer org. |
 | Finland Lifeboat Institute | Finland volunteer org. |
 | New Zealand Coast Guard | NZ volunteer org. |
 | MRNSW | Australia volunteer org. |
