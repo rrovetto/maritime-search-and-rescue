@@ -1,5 +1,5 @@
-# What is Maritime search and rescue (SAR)?
-It is the search for distressed persons and maritime vessels/vehicles, their rescue and/or recovvery.
+# What is Maritime Search and Rescue (SAR)?
+It is the search for distressed persons and vessels/vehicles, their rescue, and/or their recovery, in the marine environment.
 
 ## Terms
 - 'Maritime', here, refers to water-bodies, whether rivers, lakes, seas, or oceans. Artificial water-bodies such as pools shall be considered a specialized case. The term may be considered synonymous with 'aquatic', 'water', 'marine'.
@@ -14,6 +14,7 @@ Maritime SAR arguable spans as early as humans walked the Earth's water bodies. 
 In modern times, maritime SAR is seen in both paid and unpaid paradigms. The latter is arguable more common, particularly in Europe.
 Military organizatons typically incorproate it as a function or mission. Volunteer (unpaid) organizations may have it as a primary function.
 Examples include the following.
+
 | Organization (sample) | Description |
 |--------------|-------------|
 | Canadian Coast guard, & RCMSAR | Canada's paid civil org., and Unpaid (volunteer) org. |
