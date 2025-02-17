@@ -1,11 +1,13 @@
 # Maritime Search and Rescue (M-SAR)
-This work aims to succinctly present information about maritime search and rescue (M-SAR). The [author](https://community.nasbla.org/network/members/profile?UserKey=952c6b10-a6c3-49f7-8356-c2bf1fa62097) aims to summarize the who, what, why, where, when, and how of M-SAR.
+This work aims to succinctly present information about maritime search and rescue (M-SAR). The [author](https://community.nasbla.org/network/members/profile?UserKey=952c6b10-a6c3-49f7-8356-c2bf1fa62097) aims to summarize the who, what, why, where, when, and how of M-SAR.   
 - The '[who](https://github.com/rrovetto/maritime-search-and-rescue/tree/main/who%20is%20in%20it)' includes the actors, roles and participants.
 - The '[what](https://github.com/rrovetto/maritime-search-and-rescue/tree/main/what-is-it)' includes describing the activity and definition.The 'why' describes the rationale and purpose.
 - The '[where](https://github.com/rrovetto/maritime-search-and-rescue/tree/main/where%20does%20it%20apply)' signifies the geographic scope.
 - The '[when](https://github.com/rrovetto/maritime-search-and-rescue/tree/main/when%20is%20it%20employed)' describes the temporal extent.
 - The '[how](https://github.com/rrovetto/maritime-search-and-rescue/tree/main/how%20is%20it%20applied)' describes the means and method of executing M-SAR (i.e., the 'what').
 - The '[why](https://github.com/rrovetto/maritime-search-and-rescue/tree/main/why-is-it-important)' describes the rationale for conducting M-SAR.
+## History
+For a diagram of the history of global aquatic SAR, visit [this purchasing website](https://bookings.setmore.com/scheduleappointment/b03fff30-d0df-47d8-9270-236d78d9b1f8/services/5dbb96d9-df16-4482-8b67-1ccfa73aac38).
 
 ## Citation 
 If you find value in this work, cite it as "Maritime Search and Rescue, GitHub page, Robert J. Rovetto" with the date and the website URL. Or use your preferred professional citation/reference format (APA, etc.).
