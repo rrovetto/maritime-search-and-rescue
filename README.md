@@ -4,7 +4,7 @@ This work aims to succinctly present information about maritime search and rescu
 - The '[what](https://github.com/rrovetto/maritime-search-and-rescue/tree/main/what%20is%20it)' includes describing the activity and definition.The 'why' describes the rationale and purpose.
 - The '[where](https://github.com/rrovetto/maritime-search-and-rescue/tree/main/where%20does%20it%20apply)' signifies the geographic scope.
 - The '[when](https://github.com/rrovetto/maritime-search-and-rescue/tree/main/when%20is%20it%20employed)' describes the temporal extent.
-- The '[how](https://github.com/rrovetto/maritime-search-and-rescue/tree/main/how%20is%20it%20applied)' describes the means and method of executing M-SAR (i.e., the 'what').
+- The '[how](https://github.com/rrovetto/maritime-search-and-rescue/tree/main/how%20is%20it%20performed)' describes the means and method of executing M-SAR (i.e., the 'what').
 - The '[why](https://github.com/rrovetto/maritime-search-and-rescue/tree/main/why-is-it-important)' describes the rationale for conducting M-SAR.
 ## History of Aquatic Rescue
 For a diagram of the history of global aquatic SAR, visit [this purchasing website](https://bookings.setmore.com/scheduleappointment/b03fff30-d0df-47d8-9270-236d78d9b1f8/services/5dbb96d9-df16-4482-8b67-1ccfa73aac38).
