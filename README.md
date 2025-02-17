@@ -6,16 +6,17 @@ This work aims to succinctly present information about maritime search and rescu
 - The '[when](https://github.com/rrovetto/maritime-search-and-rescue/tree/main/when%20is%20it%20employed)' describes the temporal extent.
 - The '[how](https://github.com/rrovetto/maritime-search-and-rescue/tree/main/how%20is%20it%20applied)' describes the means and method of executing M-SAR (i.e., the 'what').
 - The '[why](https://github.com/rrovetto/maritime-search-and-rescue/tree/main/why-is-it-important)' describes the rationale for conducting M-SAR.
-## History
+## History of Aquatic Rescue
 For a diagram of the history of global aquatic SAR, visit [this purchasing website](https://bookings.setmore.com/scheduleappointment/b03fff30-d0df-47d8-9270-236d78d9b1f8/services/5dbb96d9-df16-4482-8b67-1ccfa73aac38).
 ![image](https://github.com/rrovetto/maritime-search-and-rescue/blob/3275227272cd2b81298fc01394a5984b46a9840d/images/Diagram_HistoryMaritimeSAR_Rovetto_v1.jpg)
 ## Citation 
-If you find value in this work, cite it as "Maritime Search and Rescue, GitHub page, Robert J. Rovetto" with the date and the website URL. Or use your preferred professional citation/reference format (APA, etc.).
+Cite according to your preferred format (APA, etc.), e.g, "Maritime Search and Rescue", GitHub page, Robert J. Rovetto. https://github.com/rrovetto/maritime-search-and-rescue/ 
 
 ## Support
-- **Donations:** If you find value in this work, pleaes [donate at this PayPal page](https://tinyurl.com/donate-rjr). As a presently unfunded personal project, your donation will support development into the future, and show appreciation for the time and work thusfar.
-- **Sponsor:** Contact maritimeSARemail[at]gmail[dot]com to sponsor the project
-- **Organizational partners:** Contact maritimeSARemail[at]gmail[dot]com to become an organiational business partner.
+If you find value in this work, then...
+- **Donate:**  [via this PayPal page](https://tinyurl.com/donate-rjr). As a presently unfunded personal project, your donation will support development into the future, and show appreciation for the time and work thusfar.
+- **Sponsor or Subscribe:** [via this Patreon page](https://patreon.com/user?u=16992629) or by [Contacting via Email](mailto:maritimeSARemail@gmail.com) or [Contacting via webpage](https://thespiritofsar.wordpress.com/contact)
+- **Organizational partners:** [Contacting via Email](mailto:maritimeSARemail@gmail.com) to become a business partner or discuss work collaborations.
 
 ## Alternate names
 Other names for 'maritime search and rescue' include: Maritime SAR, Marine SAR, Aquatic SAR, Water SAR, etc.
@@ -23,7 +24,7 @@ Other names for 'maritime search and rescue' include: Maritime SAR, Marine SAR, 
 ## Author (topical bio)
 Robert J. Rovetto
 - MMSAR
-- Co-author of [U.S. National Water Safety Action Plan](https://www.watersafetyusa.org/uploads/7/0/6/0/70608285/usnwsap_v7.pdf)
+- Co-creator of [U.S. National Water Safety Action Plan](https://www.watersafetyusa.org/uploads/7/0/6/0/70608285/usnwsap_v7.pdf)
 - USCG-licensed Merchant Mariner (Deck Officer - Master 100 Ton Inland)
 - [U.S. Maritime SAR Profile (1)](https://community.nasbla.org/network/members/profile?UserKey=952c6b10-a6c3-49f7-8356-c2bf1fa62097)
-- Sample Project: https://ontowaves.wordpress.com/
+- [Sample project combining knowledge representation and management and maritime safety](https://ontowaves.wordpress.com/)
