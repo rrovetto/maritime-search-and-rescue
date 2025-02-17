@@ -8,7 +8,7 @@ This work aims to succinctly present information about maritime search and rescu
 - The '[why](https://github.com/rrovetto/maritime-search-and-rescue/tree/main/why-is-it-important)' describes the rationale for conducting M-SAR.
 ## History
 For a diagram of the history of global aquatic SAR, visit [this purchasing website](https://bookings.setmore.com/scheduleappointment/b03fff30-d0df-47d8-9270-236d78d9b1f8/services/5dbb96d9-df16-4482-8b67-1ccfa73aac38).
-
+![image](https://github.com/rrovetto/maritime-search-and-rescue/blob/3275227272cd2b81298fc01394a5984b46a9840d/images/Diagram_HistoryMaritimeSAR_Rovetto_v1.jpg)
 ## Citation 
 If you find value in this work, cite it as "Maritime Search and Rescue, GitHub page, Robert J. Rovetto" with the date and the website URL. Or use your preferred professional citation/reference format (APA, etc.).
 
