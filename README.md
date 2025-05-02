@@ -10,8 +10,6 @@ This work aims to succinctly present information about maritime search and rescu
 ## History of Aquatic Rescue
 For a diagram of the history of global aquatic SAR, visit [this purchasing website](https://bookings.setmore.com/scheduleappointment/b03fff30-d0df-47d8-9270-236d78d9b1f8/services/5dbb96d9-df16-4482-8b67-1ccfa73aac38). [Visit the description page here](https://www.surtsey.org/projects/a-visual-history-of-maritime-sar/). 
 ![image](https://github.com/rrovetto/maritime-search-and-rescue/blob/3275227272cd2b81298fc01394a5984b46a9840d/images/Diagram_HistoryMaritimeSAR_Rovetto_v1.jpg)
-## Citation 
-Cite according to your preferred format (APA, etc.), e.g, "Maritime Search and Rescue", GitHub page, Robert J. Rovetto. https://github.com/rrovetto/maritime-search-and-rescue/ 
 
 ## Support
 If you find value in this work, then...
@@ -29,3 +27,9 @@ Robert J. Rovetto
 - USCG-licensed Merchant Mariner (Deck Officer - Master 100 Ton Inland)
 - [U.S. Maritime SAR Profile (1)](https://community.nasbla.org/network/members/profile?UserKey=952c6b10-a6c3-49f7-8356-c2bf1fa62097)
 - [Sample project combining knowledge representation and management and maritime safety](https://ontowaves.wordpress.com/)
+
+## Citation 
+Cite according to your preferred format (APA, etc.), e.g, "Maritime Search and Rescue", GitHub page, Robert J. Rovetto. https://github.com/rrovetto/maritime-search-and-rescue/ 
+
+## Copyright
+(c) Robert J. Rovetto, 2024-2025. All rights reserved.
