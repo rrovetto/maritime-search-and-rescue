@@ -1,4 +1,4 @@
-# Maritime Search and Rescue (M-SAR)
+# Maritime Search and Rescue
 This work aims to succinctly present information about maritime search and rescue (M-SAR). The [author](https://community.nasbla.org/network/members/profile?UserKey=952c6b10-a6c3-49f7-8356-c2bf1fa62097) aims to summarize the who, what, why, where, when, and how of M-SAR.   
 - The '[who](https://github.com/rrovetto/maritime-search-and-rescue/tree/main/who%20is%20involved)' includes the actors, roles and participants.
 - The '[what](https://github.com/rrovetto/maritime-search-and-rescue/tree/main/what%20is%20it)' includes describing the activity and definition.The 'why' describes the rationale and purpose.
