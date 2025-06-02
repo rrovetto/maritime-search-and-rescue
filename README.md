@@ -32,4 +32,4 @@ Robert J. Rovetto
 Cite according to your preferred format (APA, etc.), e.g, "Maritime Search and Rescue", GitHub page, Robert J. Rovetto. https://github.com/rrovetto/maritime-search-and-rescue/ 
 
 ## Copyright
-(c) Robert J. Rovetto, 2024-2025. All rights reserved.
+© Robert J. Rovetto, 2024-2025. All rights reserved.
