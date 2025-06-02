@@ -9,7 +9,7 @@ This work aims to succinctly present information about maritime search and rescu
 
 ## History of Aquatic Rescue
 For a diagram of the history of global aquatic SAR, visit [this purchasing website](https://bookings.setmore.com/scheduleappointment/b03fff30-d0df-47d8-9270-236d78d9b1f8/services/5dbb96d9-df16-4482-8b67-1ccfa73aac38). [Visit the description page here](https://www.surtsey.org/projects/a-visual-history-of-maritime-sar/). 
-![Photo History Diagram](https://github.com/rrovetto/maritime-search-and-rescue/blob/0705bdd9ed813d1b1acd5dd78f96585c617abcc3/images/Diagram_HistoryMaritimeSAR_Rovetto_v1.jpg)
+![Photo History Diagram](images/Diagram_HistoryMaritimeSAR_Rovetto_v1.jpg)
 
 ## Support
 If you find value in this work, then...
